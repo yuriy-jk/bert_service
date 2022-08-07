@@ -1,0 +1,4 @@
+/target*
+.env
+/bert_model
+*.zip
